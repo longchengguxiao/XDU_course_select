@@ -12,3 +12,7 @@ there are specific descripations to tell you what should be filled there.
 ## Run
 Open the terminal and input command "python xk.py".
 And then, drinking a cup of tea to waste your spare time.
+
+## The purpose
+This scrpit, which I write to use to rush course before the deadline, is not for money.
+And I open it source to avoid someone use the script for money.
